@@ -23,11 +23,8 @@ Gruppenadministratoren und Moderatoren erlauben, E-Mails an alle Mitglieder eine
 *   Stelle sicher, dass Nachrichten empfangen werden, auch wenn die Benachrichtigungen eines Benutzers deaktiviert sind
 *   Sorge dafür, dass Benutzer auf Deiner Webseite mit einem internen Kommunikationszentrum für ihre verschiedenen Gruppen interagieren
 
-Füge ein einfaches E-Mail-Formular für Gruppenadministratoren hinzu. Gib einen Betreff ein, fülle den Text aus und klicke auf "Senden". Jeder Nutzer in dieser Gruppe erhält eine E-Mail an die im Nutzerprofil aufgeführte E-Mail-Adresse – einfach und effektiv.   
-
-![image](http://premium.wpmudev.org/wp-content/uploads/2009/11/groupemail650.png)
-
- Einfaches, sauberes Formular in BuddyPress integriert
+Füge ein einfaches E-Mail-Formular für Gruppenadministratoren hinzu. Gib einen Betreff ein, fülle den Text aus und klicke auf "Senden". 
+Jeder Nutzer in dieser Gruppe erhält eine E-Mail an die im Nutzerprofil aufgeführte E-Mail-Adresse – einfach und effektiv.
 
 ### Eine neue Art zu kommunizieren
 
