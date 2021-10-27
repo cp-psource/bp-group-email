@@ -37,7 +37,7 @@ Fügen eine BuddyPress-Gruppen-E-Mail hinzu und gib Gruppenleitern eine einfache
 
 [Projektseite](https://n3rds.work/piestingtal_source/buddypress-gruppen-e-mail-plugin/)
 [Handbuch](https://n3rds.work/docs/buddypress-gruppen-e-mail-handbuch/)
-[Supportforum](https://n3rds.work/forums/forum/psource-support-foren/brainpress-supportforum/)
+[Supportforum](https://n3rds.work/forums/forum/psource-support-foren/buddypress-gruppen-e-mail-supportforum/)
 [GitHub](https://github.com/piestingtal-source/bp-group-email)
 
 == Mehr PSOURCE ==
