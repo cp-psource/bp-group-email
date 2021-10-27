@@ -2,7 +2,7 @@
 /*
 Plugin Name: BuddyPress Gruppen-E-Mail
 Version: 1.0.8
-Plugin URI: https://n3rds.work
+Plugin URI: https://n3rds.work/piestingtal_source/buddypress-gruppen-e-mail-plugin/
 Description: Dieses Plugin fügt BuddyPress eine Gruppen-E-Mail-Funktionalität hinzu, die es einem Gruppenadministrator oder Moderator ermöglicht, eine E-Mail an alle anderen Mitglieder in der Gruppe zu senden.
 Author: WMS N@W
 Author URI: https://n3rds.work/
@@ -28,11 +28,11 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
-require 'psource-plugin-update/plugin-update-checker.php';
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
 $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=bp-group-email', //Metadata URL.
-	__FILE__, //Full path to the main plugin file.
-	'bp-group-email' //Plugin slug. Usually it's the same as the name of the directory.
+	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=bp-group-email', 
+	__FILE__, 
+	'bp-group-email' 
 );
 
 $bp_group_email_current_version = '1.0.8';
