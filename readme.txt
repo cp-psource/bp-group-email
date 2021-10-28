@@ -4,7 +4,7 @@ Donate link: https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free
 Tags: events, buddypress, gruppenevents, classicpress, wordpress
 Requires at least: 4.9
 Tested up to: 4.9
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -57,6 +57,12 @@ Mach eine [Spende per Überweisung oder PayPal](https://n3rds.work/spendenaktion
 Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswork-digalize-das-piestingtal/newsletter-management/) über unsere Piestingtal.Source informiert!
 
 == ChangeLog ==
+
+= 1.0.9 = DerN3rd =
+
+* PSource Updater v1.1 integriert
+* PSource Readme hinzugefügt
+* Icons / Banner hinzugefügt
 
 = 1.0.8 = DerN3rd =
 

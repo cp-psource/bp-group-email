@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BuddyPress Gruppen-E-Mail
-Version: 1.0.8
+Version: 1.0.9
 Plugin URI: https://n3rds.work/piestingtal_source/buddypress-gruppen-e-mail-plugin/
 Description: Dieses Plugin fügt BuddyPress eine Gruppen-E-Mail-Funktionalität hinzu, die es einem Gruppenadministrator oder Moderator ermöglicht, eine E-Mail an alle anderen Mitglieder in der Gruppe zu senden.
 Author: WMS N@W
@@ -35,7 +35,7 @@ $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'bp-group-email' 
 );
 
-$bp_group_email_current_version = '1.0.8';
+$bp_group_email_current_version = '1.0.9';
 
 /* Only load code that needs BuddyPress to run once BP is loaded and initialized. */
 function bp_group_email_init() {
