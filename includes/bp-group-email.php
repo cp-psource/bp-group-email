@@ -75,10 +75,10 @@ class BP_Groupemail_Extension extends BP_Group_Extension {
   		<h4><?php _e('E-Mail an Gruppe senden', 'groupemail'); ?></h4>
       
       <form action="<?php echo $url; ?>" name="add-email-form" id="add-email-form" class="standard-form" method="post" enctype="multipart/form-data">
-  			<label for="email_subject"><?php _e('Betreff', 'groupemail'); ?> *</label>
+  			<label for="email_subject"><?php _e('Betreff der Gruppenmail', 'groupemail'); ?> *</label>
   			<input name="email_subject" id="email_subject" value="<?php echo $email_subject; ?>" type="text">
   			
-  			<label for="email_text"><?php _e('Email Text', 'groupemail'); ?> *
+  			<label for="email_text"><?php _e('Deine eMail Nachricht an die Gruppe', 'groupemail'); ?> *
         <small><?php _e('(Kein HTML erlaubt)', 'groupemail'); ?></small></p>
         </label>
   			<textarea name="email_text" id="email_text" rows="10"><?php echo $email_text; ?></textarea>
