@@ -58,6 +58,10 @@ Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswor
 
 == ChangeLog ==
 
+= 1.1.0 = DerN3rd =
+
+* Textanpassungen
+
 = 1.0.9 = DerN3rd =
 
 * PSource Updater v1.1 integriert
